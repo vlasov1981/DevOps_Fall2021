@@ -1,3 +1,1 @@
-Just test file 
-Brancg Fix2
-Change from GitHub web
+This is just test file to check how all this works
